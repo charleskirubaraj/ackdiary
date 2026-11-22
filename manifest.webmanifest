@@ -1,0 +1,17 @@
+{
+  "name": "ACK Diary",
+  "short_name": "ACK Diary",
+  "description": "Every Penny Counts. Every Goal Matters.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6efe4",
+  "theme_color": "#b24a62",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [{ "name": "Quick add expense", "url": "/?add=1" }]
+}
