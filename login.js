@@ -25,6 +25,7 @@
     return /^\/(?!\/|\\)/.test(n) && n.indexOf("/login") !== 0 ? n : "/";
   }
   function goNext() { location.replace(nextPath()); }
+  function callbackUrl() { return cfg.redirectUrl || location.origin + "/auth/callback"; }
 
   function validPassword(p) { return p.length >= 8 && /[A-Za-z]/.test(p) && /\d/.test(p); }
   function strength(p) {
@@ -165,7 +166,7 @@
     if (!match) { setMsg("Passwords do not match."); pass2.focus(); return; }
     busy(form, true, "Creating account…");
     sb().then(function (c) {
-      return c.auth.signUp({ email: email.value.trim(), password: pass.value, options: { emailRedirectTo: location.origin + "/login" } });
+      return c.auth.signUp({ email: email.value.trim(), password: pass.value, options: { emailRedirectTo: callbackUrl() } });
     }).then(function (r) {
       if (r.error) throw r.error;
       if (r.data.session) { goNext(); return; }
@@ -184,7 +185,7 @@
     if (!okEmail) { setMsg("Please enter a valid email address."); email.focus(); return; }
     busy(form, true, "Sending…");
     sb().then(function (c) {
-      return c.auth.resetPasswordForEmail(email.value.trim(), { redirectTo: location.origin + "/login" });
+      return c.auth.resetPasswordForEmail(email.value.trim(), { redirectTo: callbackUrl() });
     }).then(function (r) {
       busy(form, false);
       if (r.error && r.error.status === 429) { setMsg(friendly(r.error)); return; }
