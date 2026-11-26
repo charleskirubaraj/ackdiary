@@ -1,5 +1,5 @@
 /* ACK Diary service worker: app shell works offline. API calls are never cached (financial data). */
-const CACHE = "ack-diary-v4";
+const CACHE = "ack-diary-v5";
 const SHELL = ["/", "/budget", "/diary", "/transactions", "/reports", "/savings", "/reminders", "/settings", "/login", "/manifest.webmanifest", "/i18n.js", "/ack-extras.js", "/ack-config.js", "/auth-gate.js", "/login.js", "/brand/ack-logo-full.jpg", "/brand/ack-logo-mark.jpg", "/icons/icon-192.png"];
 
 self.addEventListener("install", (e) => {
