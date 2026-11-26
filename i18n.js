@@ -43,6 +43,64 @@
     "Synced": ["ஒத்திசைக்கப்பட்டது", "सिंक हो गया"],
     "Sync now": ["இப்போது ஒத்திசை", "अभी सिंक करें"],
     "Language": ["மொழி", "भाषा"],
+    // Share, account and login
+    "Share": ["பகிர்", "शेयर करें"],
+    "Share ACK Diary": ["ACK டைரியைப் பகிரவும்", "ACK डायरी शेयर करें"],
+    "Invite friends and family to manage money together.": ["பணத்தை ஒன்றாக நிர்வகிக்க நண்பர்களையும் குடும்பத்தினரையும் அழைக்கவும்.", "दोस्तों और परिवार को मिलकर पैसे संभालने के लिए आमंत्रित करें।"],
+    "Share using phone apps": ["தொலைபேசி செயலிகள் மூலம் பகிர்", "फ़ोन ऐप्स से शेयर करें"],
+    "SMS": ["குறுஞ்செய்தி", "एसएमएस"],
+    "Copy link": ["இணைப்பை நகலெடு", "लिंक कॉपी करें"],
+    "Link copied": ["இணைப்பு நகலெடுக்கப்பட்டது", "लिंक कॉपी हो गया"],
+    "App link": ["செயலி இணைப்பு", "ऐप लिंक"],
+    "Scan to open on another phone": ["மற்றொரு தொலைபேசியில் திறக்க ஸ்கேன் செய்யவும்", "दूसरे फ़ोन पर खोलने के लिए स्कैन करें"],
+    "QR code for the ACK Diary link": ["ACK டைரி இணைப்புக்கான QR குறியீடு", "ACK डायरी लिंक का QR कोड"],
+    "Track every rupee with ACK Diary: budget, daily diary, savings and reminders in English, Tamil and Hindi.": ["ACK டைரி மூலம் ஒவ்வொரு ரூபாயையும் கண்காணியுங்கள்: பட்ஜெட், தினசரி டைரி, சேமிப்பு மற்றும் நினைவூட்டல்கள் — ஆங்கிலம், தமிழ், இந்தியில்.", "ACK डायरी से हर रुपये का हिसाब रखें: बजट, दैनिक डायरी, बचत और रिमाइंडर — अंग्रेज़ी, तमिल और हिंदी में।"],
+    "Account": ["கணக்கு", "खाता"],
+    "Signed in as": ["உள்நுழைந்தவர்", "इस खाते से साइन इन"],
+    "Signing out…": ["வெளியேறுகிறது…", "साइन आउट हो रहा है…"],
+    "Your diary entries are stored on this device. Sign out on shared phones to keep them private.": ["உங்கள் டைரி பதிவுகள் இந்த சாதனத்தில் சேமிக்கப்படுகின்றன. பகிர்ந்த தொலைபேசிகளில் தனியுரிமைக்காக வெளியேறவும்.", "आपकी डायरी प्रविष्टियाँ इसी डिवाइस पर सहेजी जाती हैं। साझा फ़ोन पर निजता के लिए साइन आउट करें।"],
+    "Your pocket diary for budgets, daily spending, savings goals and bill reminders.": ["பட்ஜெட், தினசரி செலவு, சேமிப்பு இலக்குகள் மற்றும் பில் நினைவூட்டல்களுக்கான உங்கள் பாக்கெட் டைரி.", "बजट, रोज़ के ख़र्च, बचत लक्ष्यों और बिल रिमाइंडर के लिए आपकी पॉकेट डायरी।"],
+    "Welcome back": ["மீண்டும் வருக", "फिर से स्वागत है"],
+    "Sign in to open your pocket diary.": ["உங்கள் பாக்கெட் டைரியைத் திறக்க உள்நுழையவும்.", "अपनी पॉकेट डायरी खोलने के लिए साइन इन करें।"],
+    "Create your account": ["உங்கள் கணக்கை உருவாக்கவும்", "अपना खाता बनाएँ"],
+    "Start tracking every penny in a minute.": ["ஒரு நிமிடத்தில் ஒவ்வொரு காசையும் கண்காணிக்கத் தொடங்குங்கள்.", "एक मिनट में हर पैसे का हिसाब रखना शुरू करें।"],
+    "Reset your password": ["கடவுச்சொல்லை மீட்டமைக்கவும்", "पासवर्ड रीसेट करें"],
+    "We will email you a secure link to set a new password.": ["புதிய கடவுச்சொல்லை அமைக்க பாதுகாப்பான இணைப்பை மின்னஞ்சலில் அனுப்புவோம்.", "नया पासवर्ड सेट करने के लिए हम आपको एक सुरक्षित लिंक ईमेल करेंगे।"],
+    "Set a new password": ["புதிய கடவுச்சொல்லை அமைக்கவும்", "नया पासवर्ड सेट करें"],
+    "Choose a strong password you have not used before.": ["இதுவரை பயன்படுத்தாத வலுவான கடவுச்சொல்லைத் தேர்ந்தெடுக்கவும்.", "ऐसा मज़बूत पासवर्ड चुनें जो पहले इस्तेमाल न किया हो।"],
+    "Email address": ["மின்னஞ்சல் முகவரி", "ईमेल पता"],
+    "Confirm password": ["கடவுச்சொல்லை உறுதிப்படுத்தவும்", "पासवर्ड की पुष्टि करें"],
+    "New password": ["புதிய கடவுச்சொல்", "नया पासवर्ड"],
+    "Show password": ["கடவுச்சொல்லைக் காட்டு", "पासवर्ड दिखाएँ"],
+    "Hide password": ["கடவுச்சொல்லை மறை", "पासवर्ड छिपाएँ"],
+    "Forgot password?": ["கடவுச்சொல் மறந்துவிட்டதா?", "पासवर्ड भूल गए?"],
+    "Send reset link": ["மீட்டமைப்பு இணைப்பை அனுப்பு", "रीसेट लिंक भेजें"],
+    "Back to sign in": ["உள்நுழைவுக்குத் திரும்பு", "साइन इन पर वापस जाएँ"],
+    "Save new password": ["புதிய கடவுச்சொல்லைச் சேமி", "नया पासवर्ड सहेजें"],
+    "New to ACK Diary?": ["ACK டைரிக்குப் புதியவரா?", "ACK डायरी पर नए हैं?"],
+    "Already have an account?": ["ஏற்கனவே கணக்கு உள்ளதா?", "पहले से खाता है?"],
+    "At least 8 characters, with a letter and a number.": ["குறைந்தது 8 எழுத்துகள், ஒரு எழுத்தும் ஒரு எண்ணும் கொண்டு.", "कम से कम 8 अक्षर, जिसमें एक अक्षर और एक अंक हो।"],
+    "Password strength: weak": ["கடவுச்சொல் வலிமை: பலவீனம்", "पासवर्ड की मज़बूती: कमज़ोर"],
+    "Password strength: fair": ["கடவுச்சொல் வலிமை: சராசரி", "पासवर्ड की मज़बूती: ठीक"],
+    "Password strength: strong": ["கடவுச்சொல் வலிமை: வலுவானது", "पासवर्ड की मज़बूती: मज़बूत"],
+    "Please enter a valid email address.": ["சரியான மின்னஞ்சல் முகவரியை உள்ளிடவும்.", "कृपया सही ईमेल पता दर्ज करें।"],
+    "Password must be at least 8 characters, with a letter and a number.": ["கடவுச்சொல் குறைந்தது 8 எழுத்துகளுடன், ஒரு எழுத்தும் ஒரு எண்ணும் கொண்டிருக்க வேண்டும்.", "पासवर्ड कम से कम 8 अक्षरों का हो और उसमें एक अक्षर व एक अंक हो।"],
+    "Passwords do not match.": ["கடவுச்சொற்கள் பொருந்தவில்லை.", "पासवर्ड मेल नहीं खाते।"],
+    "Incorrect email or password.": ["மின்னஞ்சல் அல்லது கடவுச்சொல் தவறு.", "ईमेल या पासवर्ड गलत है।"],
+    "Please confirm your email first. Check your inbox.": ["முதலில் உங்கள் மின்னஞ்சலை உறுதிப்படுத்தவும். இன்பாக்ஸைப் பார்க்கவும்.", "पहले अपना ईमेल कन्फ़र्म करें। अपना इनबॉक्स देखें।"],
+    "Too many attempts. Please wait a minute and try again.": ["அதிக முயற்சிகள். ஒரு நிமிடம் காத்திருந்து மீண்டும் முயற்சிக்கவும்.", "बहुत अधिक प्रयास। एक मिनट रुककर फिर कोशिश करें।"],
+    "Something went wrong. Please check your connection and try again.": ["ஏதோ தவறு நடந்தது. இணைப்பைச் சரிபார்த்து மீண்டும் முயற்சிக்கவும்.", "कुछ गलत हुआ। अपना कनेक्शन जाँचकर फिर कोशिश करें।"],
+    "Check your email to confirm your account, then sign in.": ["உங்கள் கணக்கை உறுதிப்படுத்த மின்னஞ்சலைப் பார்த்து, பிறகு உள்நுழையவும்.", "खाता कन्फ़र्म करने के लिए अपना ईमेल देखें, फिर साइन इन करें।"],
+    "If an account exists for this email, a reset link is on its way.": ["இந்த மின்னஞ்சலுக்கு கணக்கு இருந்தால், மீட்டமைப்பு இணைப்பு அனுப்பப்படுகிறது.", "अगर इस ईमेल का खाता है, तो रीसेट लिंक भेजा जा रहा है।"],
+    "Password updated. Opening your diary…": ["கடவுச்சொல் புதுப்பிக்கப்பட்டது. உங்கள் டைரி திறக்கிறது…", "पासवर्ड अपडेट हो गया। आपकी डायरी खुल रही है…"],
+    "Signing in…": ["உள்நுழைகிறது…", "साइन इन हो रहा है…"],
+    "Creating account…": ["கணக்கு உருவாக்கப்படுகிறது…", "खाता बन रहा है…"],
+    "Sending…": ["அனுப்புகிறது…", "भेजा जा रहा है…"],
+    "Saving…": ["சேமிக்கிறது…", "सहेजा जा रहा है…"],
+    "Login is not set up yet. You can keep using the diary on this device.": ["உள்நுழைவு இன்னும் அமைக்கப்படவில்லை. இந்த சாதனத்தில் டைரியைத் தொடர்ந்து பயன்படுத்தலாம்.", "लॉगिन अभी सेट नहीं है। आप इस डिवाइस पर डायरी इस्तेमाल करते रह सकते हैं।"],
+    "Open diary": ["டைரியைத் திற", "डायरी खोलें"],
+    "Protected by encrypted sign-in. We never see your password.": ["மறையாக்கப்பட்ட உள்நுழைவால் பாதுகாக்கப்படுகிறது. உங்கள் கடவுச்சொல்லை நாங்கள் பார்ப்பதில்லை.", "एन्क्रिप्टेड साइन-इन से सुरक्षित। हम आपका पासवर्ड कभी नहीं देखते।"],
+    "Too many failed attempts. Try again in a minute.": ["பல தோல்வியுற்ற முயற்சிகள். ஒரு நிமிடத்தில் மீண்டும் முயற்சிக்கவும்.", "कई असफल प्रयास। एक मिनट बाद फिर कोशिश करें।"],
 
     // Home
     "Good morning": ["காலை வணக்கம்", "सुप्रभात"],
@@ -572,7 +630,9 @@
       applyAll();
     });
     picker.appendChild(sel);
-    document.body.appendChild(picker);
+    var slot = document.getElementById("ack-lang-slot");
+    if (slot) picker.className = "ack-docked";
+    (slot || document.body).appendChild(picker);
   }
   function syncPicker() {
     if (!picker) return;
@@ -587,7 +647,7 @@
     buildPicker();
     applyAll();
     var obs = new MutationObserver(function (records) {
-      if (picker && !picker.isConnected) document.body.appendChild(picker);
+      if (picker && !picker.isConnected) (document.getElementById("ack-lang-slot") || document.body).appendChild(picker);
       applying = true;
       try {
         for (var r = 0; r < records.length; r++) {
@@ -605,6 +665,21 @@
     });
     obs.observe(document.documentElement, { subtree: true, childList: true, characterData: true, attributes: true, attributeFilter: ATTRS });
   }
+
+  window.ACKi18n = { t: translate, lang: function () { return lang; } };
+
+  // Many phones and desktops lack Tamil/Devanagari fonts; unicode-range means only needed glyphs download.
+  (function loadScriptFonts() {
+    if (document.getElementById("ack-indic-fonts")) return;
+    var l = document.createElement("link");
+    l.id = "ack-indic-fonts";
+    l.rel = "stylesheet";
+    l.href = "https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;600&family=Noto+Sans+Tamil:wght@400;600&display=swap";
+    document.head.appendChild(l);
+    var s = document.createElement("style");
+    s.textContent = '[lang="ta"]:not(html){font-family:"Noto Sans Tamil",system-ui,sans-serif!important}[lang="hi"]:not(html){font-family:"Noto Sans Devanagari",system-ui,sans-serif!important}#ack-lang select,#ack-lang option{font-family:system-ui,"Noto Sans Tamil","Noto Sans Devanagari",sans-serif!important}html[lang^="ta"] body,html[lang^="ta"] body *{font-family:"Noto Sans Tamil","Noto Sans Devanagari",system-ui,sans-serif!important}html[lang^="hi"] body,html[lang^="hi"] body *{font-family:"Noto Sans Devanagari","Noto Sans Tamil",system-ui,sans-serif!important}';
+    document.head.appendChild(s);
+  })();
 
   // Wait until the app has finished starting up so the page is not changed underneath it.
   function later() { setTimeout(start, 150); }
